@@ -1,0 +1,15 @@
+Input
+The first line of the input gives the number of test cases, T. T test cases follow. Each test case consists of 2 lines. The first line contains a single integer N, representing the number of elements in the input list. The second line contains N distinct integers L1, L2, ..., LN, representing the elements of the input list L, in order.
+
+Output
+For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the total cost of executing Reversort on the list given as input.
+
+Limits
+Time limit: 10 seconds.
+Memory limit: 1 GB.
+
+Test Set 1 (Visible Verdict)
+1 ≤ T ≤ 100.
+2 ≤ N ≤ 100.
+1 ≤ Li ≤ N, for all i.
+Li ≠ Lj, for all i ≠ j.
