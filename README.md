@@ -5,7 +5,7 @@ ADCPS is a **structured repository of algorithmic techniques and competitive pro
 
 ---
 
-## 🎯 Purpose & Intent
+## Purpose & Intent
 
 * **Organize knowledge:** Collect and categorize algorithmic concepts and competitive programming methods.
 * **Track progress:** Serve as a personal and professional record of learning and mastery over time.
@@ -14,7 +14,7 @@ ADCPS is a **structured repository of algorithmic techniques and competitive pro
 
 ---
 
-## 🔹 Expectations from the Repo
+## Expectations from the Repo
 
 * Clear presentation of **algorithmic approaches** and **problem-solving frameworks**.
 * Notes on **design patterns, optimization strategies, and common CP techniques**.
