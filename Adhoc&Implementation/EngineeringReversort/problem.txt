@@ -1,0 +1,26 @@
+Input: The first line of the input gives the number of test cases, T.
+T lines follow. Each line describes a test case with two integers N and C:
+- the size of the wanted list, and
+- the desired cost, respectively.
+
+Output
+For each test case, if there is no list of size N such that applying Reversort to it costs exactly C, output one line containing
+
+Case #x: IMPOSSIBLE, where x is the test case number (starting from 1).
+
+Otherwise, output one line containing Case #x: y1 y2 ... yN, where x is the test case number (starting from 1) and each yi is a distinct integer between 1 and N, representing the i-th element of one such possible list.
+
+If there are multiple solutions, you may output any one of them. (See "What if a test case has multiple correct solutions?" in the Competing section of the FAQ.) This information about multiple solutions will not be explicitly stated in the remainder of the 2021 contest.
+
+Limits:
+- Time limit: 10 seconds
+- Memory limit: 1 GB
+
+1 ≤ T ≤ 100
+1 ≤ C ≤ 1000
+
+Test Set 1 (Visible Verdict)
+2 ≤ N ≤ 7
+
+Test Set 2 (Visible Verdict)
+2 ≤ N ≤ 100
